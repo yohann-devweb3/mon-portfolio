@@ -64,3 +64,11 @@ footer.page-footer {
 .mt36p{
   margin-top: 36px!important;
 }
+
+.h260p{
+  height: 260px!important;
+}
+
+.card-title,li{
+  font-size: 19px!important;
+}
